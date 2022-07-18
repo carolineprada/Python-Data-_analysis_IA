@@ -1,0 +1,9 @@
+url_1: https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/e84182a3-f63f-4ac4-91af-327bf1965161
+
+key_1: Vd9r787k7TtXoNmsGOYijQm4x3-nPT--whOITtMyasOP
+
+
+
+
+url_2: https://api.us-south.language-translator.watson.cloud.ibm.com/instances/b6ac2065-fe67-4cee-a47b-a4facca88781
+key_2: Zk3pcFAU2ypICddyo6yeHZ6fIt8zU5n3Da2LV6f_gYnq
